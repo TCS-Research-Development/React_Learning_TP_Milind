@@ -1,4 +1,5 @@
 var config = {
+   context: path.join(__dirname,'app'),
    entry: './RoutingMain.js',
 	
    output: {
